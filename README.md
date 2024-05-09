@@ -1,10 +1,6 @@
 # SOCIAL-NETWORKING-PLATFORM
 SocialDesk is a robust social networking platform designed to provide users with a safe and engaging online community experience. Leveraging the power of modern technologies and innovative features, SocialDesk ensures a seamless user interaction while prioritizing content moderation and user security.
 
-# SOCIAL-NETWORKING-PLATFORM
-
-SocialDesk is a comprehensive social networking platform built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It offers advanced features such as automated content moderation and context-based authentication, ensuring a safe and secure environment for users to connect and interact online.
-
 ## Features
 
 - **Automated Content Moderation**: Leveraging NLP (Natural Language Processing) APIs, SocialEcho filters spam, profanity, toxicity, and harassment in user-generated content, maintaining community guidelines compliance.
@@ -22,6 +18,18 @@ SocialDesk is a comprehensive social networking platform built with the MERN (Mo
 - **Frontend**: React.js with Redux for state management, delivering a responsive and interactive user interface.
 
 - **Backend**: Node.js and Express.js power the backend, with MongoDB as the database for efficient data management.
+
+## User Role Preview
+
+https://github.com/kalirishik/SOCIAL-NETWORKING-PLATFORM/assets/110583211/0e5bc0ab-3f6b-4999-929a-a826a80b8b2a
+
+https://github.com/kalirishik/SOCIAL-NETWORKING-PLATFORM/assets/110583211/d68a2c4a-5c2b-4d1f-99d9-bf7eb306f224
+
+
+## Admin Role Preview
+
+https://github.com/kalirishik/SOCIAL-NETWORKING-PLATFORM/assets/110583211/4b1c501b-c47f-40ff-a810-5db0841624a1
+
 
 ## Getting Started
 
