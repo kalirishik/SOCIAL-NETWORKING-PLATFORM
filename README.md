@@ -3,15 +3,15 @@ SocialDesk is a robust social networking platform designed to provide users with
 
 ## Features
 
-- **Automated Content Moderation**: Leveraging NLP (Natural Language Processing) APIs, SocialEcho filters spam, profanity, toxicity, and harassment in user-generated content, maintaining community guidelines compliance.
+- **Automated Content Moderation**: Leveraging NLP (Natural Language Processing) APIs, SocialDesk filters spam, profanity, toxicity, and harassment in user-generated content, maintaining community guidelines compliance.
 
-- **Context-Based Authentication**: Enhancing user account security, SocialEcho considers user location, IP address, and device information for authentication, with immediate email notifications for suspicious login attempts.
+- **Context-Based Authentication**: Enhancing user account security, SocialDesk considers user location, IP address, and device information for authentication, with immediate email notifications for suspicious login attempts.
 
 - **User Roles**: Administrators manage the system, moderators handle community moderation, while general users enjoy typical social media functionalities like post creation, commenting, liking, and following/unfollowing users.
 
 - **Admin and Moderator Dashboards**: Comprehensive dashboards empower admins and moderators with tools for system-wide management, user activity monitoring, and moderation tasks.
 
-- **Email Notifications**: SocialEcho sends timely email notifications for authentication purposes and important system updates, ensuring effective communication with users.
+- **Email Notifications**: SocialDesk sends timely email notifications for authentication purposes and important system updates, ensuring effective communication with users.
 
 ## Technologies
 
@@ -37,7 +37,7 @@ https://github.com/kalirishik/SOCIAL-NETWORKING-PLATFORM/assets/110583211/4b1c50
 
 2. **Installation**: Clone the repository, install dependencies for both client and server, and configure environment variables.
 
-3. **Starting the Server and Client**: Start the server and client to launch the SocialEcho platform.
+3. **Starting the Server and Client**: Start the server and client to launch the SocialDesk platform.
 
 ## Usage
 
