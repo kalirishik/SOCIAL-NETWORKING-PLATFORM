@@ -1,0 +1,40 @@
+.location-track-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .location-heading {
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  .location-table {
+    width: 90%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: 80px;
+  }
+  
+  .location-table th, .location-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .location-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .location-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .location-table tr:hover {
+    background-color: #ddd;
+  }
+  h4{
+    color: red;
+  }
+  h4:hover{
+    color:green;
+  }
+  

@@ -1,0 +1,21 @@
+body {
+    background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+    background-image: linear-gradient( 135deg, #81FFEF 10%, #F067B4 100%);
+	height: 400px;
+}
+.nav-icons3{
+	margin-left: 1470px;
+	color: orangered;
+	font-weight: bolder;
+	border: 2px solid black;
+	padding: 10px;
+	border-radius: 35px;
+	background-color: whitesmoke;
+}
+.nav-icons3:hover{
+    transform: scale(1.2);
+    transition: .3s;
+}
