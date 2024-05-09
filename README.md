@@ -1,7 +1,7 @@
 # SOCIAL-NETWORKING-PLATFORM
 SocialDesk is a robust social networking platform designed to provide users with a safe and engaging online community experience. Leveraging the power of modern technologies and innovative features, SocialDesk ensures a seamless user interaction while prioritizing content moderation and user security.
 
-# SocialDesk
+# SOCIAL-NETWORKING-PLATFORM
 
 SocialDesk is a comprehensive social networking platform built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It offers advanced features such as automated content moderation and context-based authentication, ensuring a safe and secure environment for users to connect and interact online.
 
